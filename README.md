@@ -1,4 +1,8 @@
 ## Hi there 👋
+[![Likes](https://badgen.org/img/zenn/tyokoyama/likes?style=plastic)](https://zenn.dev/tyokoyama)
+[![Contributions](https://badgen.org/img/qiita/ttyokoyama/contributions?style=plastic)](https://qiita.com/ttyokoyama)
+[![Rating](https://badgen.org/img/atcoder/takashiyokoyama/rating/algorithm?style=plastic)](https://atcoder.jp/users/takashiyokoyama?contestType=algo)
+[![Followers](https://badgen.org/img/bluesky/yokoyama.bsky.social/followers?style=plastic)](https://bsky.app/profile/yokoyama.bsky.social)
 
 <!--
 **tyokoyama/tyokoyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
